@@ -20,4 +20,18 @@ CRM-客户管理系统
 <img src="https://github.com/Zinner2/imgs/blob/master/crm-img/src/img/6.png" />
 <img src="https://github.com/Zinner2/imgs/blob/master/crm-img/src/img/7.png" />
 
+# 技术选型
+  1 - Mysql  
+  2 - Spring  
+  3 - SpringMVC  
+  4 - Mybatis  
+# 开发环境
+  操作系统：Windows 10  
+  IDE工具：IDEA  
+  JDK：JDK1.8  
+  中间件：Tomcat 9.0  
+  构建工具：Maven  
+  框架：SSM  
+# 运行方式 
+  
 
