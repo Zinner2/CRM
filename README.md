@@ -34,10 +34,9 @@ CRM-客户管理系统
   框架：SSM  
 # 运行方式 
   <a href="https://github.com/Zinner2/CRM/blob/master/src/main/resources/conf/applicationContext.xml">applicationContext.xml</a> 修改该配置文件即可:  
-  <bean id="datasource" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
-        <property name="url" value="jdbc:mysql://127.0.0.1:3306/你的数据库名字"></property>
-        <property name="username" value="你的账号"></property>
-        <property name="password" value="你的密码"></property>
-    </bean>
-  
+
+       name="url" value="jdbc:mysql://127.0.0.1:3306/你的数据库名字"
+       name="username" value="你的账号"
+       name="password" value="你的密码"
+
 
